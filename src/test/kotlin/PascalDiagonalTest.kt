@@ -10,5 +10,4 @@ class PascalDiagonalTest {
         assertEquals(BigInteger.valueOf(20349), PascalDiagonal.diagonal(20, 4))
         assertEquals(BigInteger.valueOf(54264), PascalDiagonal.diagonal(20, 5))
     }
-
 }
